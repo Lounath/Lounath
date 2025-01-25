@@ -21,7 +21,7 @@ Here are some of the projects I've worked on, all of which are available here on
 - Created an image processing program capable of applying various filters to bitmap images.
 - Leveraged low-level programming for performance optimization.
 
-### 🔹 Java: Board Game
+### 🔹 Java: Board Game ("Age de Psychée")
 - Designed and implemented a complete board game.
 - Focused on object-oriented programming and game mechanics.
 
