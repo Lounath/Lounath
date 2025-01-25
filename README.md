@@ -1,8 +1,3 @@
-- Hi, I’m @Lounath
-
-I like back-end and data base
-I'm always interested in learning new languages
-
 # Hi, i'm @Lounath
 
 Welcome to my GitHub profile! I'm passionate about **backend development** and **databases**. I enjoy creating efficient, interesting, and fun systems, and I'm always eager to learn and improve.
